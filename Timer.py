@@ -36,7 +36,7 @@ def timer(timer_Length, list_Iteration): #The actual timer portion of the progra
 
             print("Time Remaining:", timer_Length - m, "minutes",59 - i%60,"seconds remaining ", end="\r")
 
-            time.sleep(0.25)
+            time.sleep(1) #The sleep function suspends the execution of all code for 1 second (for debugging, set this value to 0.1)
         cls()
         return 1
     
