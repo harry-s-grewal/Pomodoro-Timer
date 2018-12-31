@@ -1,6 +1,7 @@
 # Pomodoro-Timer v 1.1
 This application is a simple desktop Pomodoro timer based in Python.
-  Update log 1.1 - Added sounds between work and break sessions, as well as a few in other special cases
+
+## Update log 1.1 - Added sounds between work and break sessions, as well as a few in other special cases
   
 ## Explaination of the Pomodoro Method:
   The Pomodoro method is a well known method of working efficiently without burning out.
@@ -16,3 +17,6 @@ This application is a simple desktop Pomodoro timer based in Python.
   The user can skip any given timer using the hotkey CTRL C
   After each long break, the user is prompted to choose whether they will continue working or quit
     Upon quitting, the user is able to see a brief report of the work they have completed.
+    
+ ### How to use on a desktop:
+  Make sure you have Python installed. Download the entire Main folder, and run Timer.py
