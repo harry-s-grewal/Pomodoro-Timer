@@ -40,7 +40,7 @@ def timer(timer_Length, list_Iteration): # The actual timer portion of the progr
             print("Time Remaining: {0} minutes {1} seconds remaining ".format(timer_Length - m, 59 - i%60), end="\r")
 
             # The wait function suspends the execution of all code for 1000 ms 
-            time.wait(10) #(for debugging, set this value to 10)
+            time.wait(1000) #(for debugging, set this value to 10)
         cls()
         return 1
     
