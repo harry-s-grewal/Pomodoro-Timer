@@ -23,4 +23,6 @@ Added sounds between work and break sessions, as well as a few in other special 
     Upon quitting, the user is able to see a brief report of the work they have completed.
     
  ### How to use on a desktop:
-  Make sure you have Python installed. Download the entire Main folder, and run Timer.py
+  Make sure you have Python installed. Download the entire Main folder, and run Timer_v1.2.py
+ ### Windows:
+  Download the entire Main folder, and run Timer_v1.2.exe
