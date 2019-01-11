@@ -1,8 +1,12 @@
-# Pomodoro-Timer v 1.1
+# Pomodoro-Timer v 1.2
 This application is a simple desktop Pomodoro timer based in Python.
 
-## Update log 1.1 - Added sounds between work and break sessions, as well as a few in other special cases
-  
+## Update log 1.2 - 
+Tweaked for optimization, utilized PyGame's timer function to import fewer libraries, fixed an error where final amount of hours is not displayed
+
+## Update log 1.1 - 
+Added sounds between work and break sessions, as well as a few in other special cases
+
 ## Explaination of the Pomodoro Method:
   The Pomodoro method is a well known method of working efficiently without burning out.
     Essentially, a user works for 25 minutes, then takes a 5 minute break. 
