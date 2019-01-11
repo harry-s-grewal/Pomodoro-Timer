@@ -2,7 +2,7 @@
 This application is a simple desktop Pomodoro timer based in Python.
 
 ## Update log 1.2 - 
-Tweaked for optimization, utilized PyGame's timer function to import fewer libraries, fixed an error where final amount of hours is not displayed
+Tweaked for optimization, utilized PyGame's timer function to import fewer libraries, fixed an error where final amount of hours is not displayed. Added .exe for use without Python installed
 
 ## Update log 1.1 - 
 Added sounds between work and break sessions, as well as a few in other special cases
