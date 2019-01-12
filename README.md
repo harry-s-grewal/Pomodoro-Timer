@@ -1,5 +1,8 @@
-# Pomodoro-Timer v 1.2
+# Pomodoro-Timer v 1.3
 This application is a simple desktop Pomodoro timer based in Python.
+
+## Update log 1.3 -
+Tweaked for optimization by initializing sounds in single class. Added option to turn sounds on and off. Bundled sound files into .exe for portable use.
 
 ## Update log 1.2 - 
 Tweaked for optimization, utilized PyGame's timer function to import fewer libraries, fixed an error where final amount of hours is not displayed. Added .exe for use without Python installed
@@ -23,6 +26,7 @@ Added sounds between work and break sessions, as well as a few in other special 
     Upon quitting, the user is able to see a brief report of the work they have completed.
     
  ### How to use on a desktop:
-  Make sure you have Python installed. Download the entire Main folder, and run Timer_v1.2.py
+  Make sure you have Python installed. Download the entire Main folder, and run Timer_v1.3.py
+  
  ### Windows:
-  Download the entire Main folder, and run Timer_v1.2.exe
+  Simply download the .exe file and go at 'er
